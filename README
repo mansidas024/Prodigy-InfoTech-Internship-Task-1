@@ -1,0 +1,20 @@
+# House Price Prediction using Linear Regression
+
+## Overview
+This repository contains the implementation of a linear regression model for predicting house prices based on square footage, bedrooms, and bathrooms. The project is part of the Machine Learning internship at Prodigy InfoTech.
+
+## Description
+The task involves:
+- Analyzing a dataset containing house information.
+- Implementing a linear regression algorithm to predict house prices.
+- Exploring relationships between square footage, bedrooms, bathrooms, and prices.
+- Evaluating model performance using appropriate metrics.
+
+## Files
+- `house_price_prediction.ipynb`: Jupyter Notebook with the code implementation.
+- `dataset.csv`: Dataset used for training and testing the model.
+
+## Timeline
+- Start: 1st November, 23
+- End: 30th November, 23
+- Submission: 5th December, 23
